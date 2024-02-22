@@ -7,4 +7,4 @@
 - git log --oneline
 - git checkout {branch name}
 - git branch
-- git branch -d {branch name} // to create a new branch
+- git checkout -b {branch name} // to create a new branch
