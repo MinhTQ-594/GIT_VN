@@ -8,3 +8,5 @@
 - git checkout {branch name}
 - git branch
 - git checkout -b {branch name} // to create a new branch
+- git merge {branch name}
+- git branch -d {branch name} // to delete the branch
