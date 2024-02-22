@@ -1,3 +1,9 @@
+# Term
+
+Repository
+Branch
+Conflict
+
 # Command
 - git init
 - git add
