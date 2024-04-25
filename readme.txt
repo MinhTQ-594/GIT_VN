@@ -20,3 +20,8 @@ remote
 - git merge {branch name} // để tổng hợp với branch master
 - git branch -d {branch name} // to delete the branch
 - git push // đẩy repository từ local lên remote
+- git remote add origin {repo url} // alias
+- git push origin {branch name} đẩy branch lên github
+- git clone {repo url}
+- git fetch origin // chuẩn bị kéo cái branch trên github về.
+- git checkout -b {branchname} origin/{branchname}
